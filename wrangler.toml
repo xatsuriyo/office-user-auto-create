@@ -1,12 +1,12 @@
 name = 'cresentmoonlight'
-account_id = '7336b05b4ef3831007ab0f38584794c9'
+account_id = 'xatsuriyo'
 type = 'webpack'
 workers_dev = true
 webpack_config = 'webpack.config.js'
 
 [vars]
 _ANNOUNCEMENT = 'Testing'
-_GET_CODE_LINK = 'https://brings.workers.dev'
+_GET_CODE_LINK = 'https://cresentmoonlight.brings.workers.dev'
 _AAD_CONFIG = '{ "tenantId": "5d09b3ae-0440-4d92-b617-a1da36761b86", "clientId": "59d903ff-afd5-4149-a87e-b5a96ea6e058", "clientSecret": "3163fbb0-05ca-4a82-821c-da7b878ba996" }'
 _OFFICE_DOMAINS = '["apps365.work"]'
 _OFFICE_SUBSCRIPTIONS = '[{ "name": "Office 365 ProPlus + Join/Create Team Meetings", "sku": "78e66a63-337a-4a9a-8959-41c6654dfb56" }, { "name": "Office 365 ProPlus + Join Team Meetings", "sku": "e82ae690-a2d5-4d76-8d30-7c6e01e6022e" }]'
