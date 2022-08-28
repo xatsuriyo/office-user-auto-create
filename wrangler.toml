@@ -1,5 +1,5 @@
 name = 'cresentmoonlight'
-account_id = 'xatsuriyo'
+account_id = '7336b05b4ef3831007ab0f38584794c9'
 type = 'webpack'
 workers_dev = true
 webpack_config = 'webpack.config.js'
